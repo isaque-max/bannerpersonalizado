@@ -8,16 +8,16 @@ PS1='\$ '
 
 #!/bin/
 
-CYAN="\033[1;36m"
-YELLOW="\033[1;33m"
+GREEN="\033[1;36m"
+RED="\033[1;33m"
 PURPLE="\033[1;35m"
-GREEN="\033[1;32m"
-RED='\033[1;31m'
+PINK="\033[1;32m"
+BROWN='\033[1;31m'
 NC='\033[0m'
 
 #TODOS DIREITOS RESEVARDO AO CANAL EDIELSONTUBE
 
-figlet -c -f slant -t 'INSCREVA-SE' | lolcat
+figlet -c -f slant -t 'ISAQUE KING *^*' | lolcat
 
 #ja se inscreveu no canal
 #https://youtube.com/c/edielsontube
